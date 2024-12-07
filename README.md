@@ -4,6 +4,7 @@ I'm **Morten Blørstad**, a PhD research fellow in machine learning at the **Uni
 
 🔭 **Research Interests**:
 - Probabilistic machine learning
+- Learning and reasoning under uncertainty
 - Stability in machine learning (learning theory)
 - Reinforcement learning
 
