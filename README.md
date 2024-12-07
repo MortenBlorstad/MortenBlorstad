@@ -8,7 +8,7 @@ I'm **Morten Blørstad**, a PhD research fellow in machine learning at the **Uni
 - Stability in machine learning (learning theory)
 - Reinforcement learning
 
-💡 I’m particularly interested in developing robust and adaptive learning algorithms driven by application-specific problems.
+💡 I’m particularly interested in developing robust and adaptive learning algorithms motivated by application-specific problems.
 
 
 <!--
