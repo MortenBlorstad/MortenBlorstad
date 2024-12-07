@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm **Morten Blørstad**, a PhD research fellow in machine learning at the **University of Bergen (UiB)** and a data scientist at **Visito**.
+
+🔭 **Research Interests**:
+- Probabilistic machine learning
+- Stability in machine learning (learning theory)
+- Reinforcement learning
+
+💡 I’m particularly interested in developing robust and adaptive learning algorithms driven by application-specific problems.
+
+
 <!--
 **MortenBlorstad/MortenBlorstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
